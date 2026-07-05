@@ -4,7 +4,7 @@ cv:
   email: siddiqmohsin@gmail.com
   location: Auckland, New Zealand
   image: ""
-  summary: I work at the boundary between AI research and real-world enterprise deployment — most interested in what makes AI systems trustworthy in practice, not merely capable. I spent two decades taking emerging technology into regulated industries, and over the last two years retooled hands-on — a First Class Honours Master of Artificial Intelligence, research in RAG and machine unlearning, and production LLM systems built and evaluated end-to-end on open-source models. The through-line is evaluation, constraints, and controllability.
+  summary: I work at the boundary between AI research and real-world enterprise deployment, most interested in what makes AI systems trustworthy in practice, not merely capable. I spent two decades taking emerging technology into regulated industries: a national EV-charging business built inside New Zealand's utility sector, a governance training firm scaled to €5M ARR across three continents, and executive advisory at KPMG. Two years ago I went back to the lab. A First Class Honours Master of Artificial Intelligence later, my research runs across deep learning and NLP to where models meet their limits: removing concepts from trained models without retraining them, and representing knowledge so that retrieval can be trusted. I build and run the systems myself, end-to-end, on open-source models. The discipline throughout is the same: evaluation, constraints, and controllability, in service of AI that is safe, well-governed, and genuinely beneficial when enterprises hand it real work.
 
   social_networks:
     - network: GitHub
@@ -66,9 +66,9 @@ cv:
         summary: Digital Transformation & Innovation of IoT Services across New Zealand infrastructure & utilities
         highlights:
           - "Setup National EV Solution Services Business: developed & executed EV Charging Solutions go-to market strategy — One Stop Shop for Electric Vehicle Charging Solution design, installation & implementation."
-          - Won EV Smart Grid co-funding from government, announced by MP for Energy & Resources (NZ Government-published case study on eeca.govt.nz).
+          - Won EV Smart Grid co-funding from government, announced by MP for Energy & Resources.
           - Grew EV Smart Solutions pipeline to $1M+ in under a year; won national upgrade & maintenance services contract for ChargeNet (New Zealand's largest operator).
-          - "Con-X Field Intelligence SaaS platform: end-to-end sales operations, key partnerships & learning and development; new business development & customer success across sectors; go-to-market strategy development & product development team member."
+          - "Con-X Field Intelligence SaaS platform: end-to-end sales operations, key partnerships & learning and development; new business development & customer success management across sectors; go-to-market strategy development & product development."
           - "Secondment to COO: forensic process analysis, redesign & digital transformation delivering 'hyper transparency' to management; services KPI measurement, Power BI dashboarding & presentation to COO."
 
       - company: SMME
