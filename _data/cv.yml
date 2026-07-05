@@ -137,7 +137,7 @@ cv:
       - name: Models & Tooling
         keywords: [Anthropic Claude API, Claude Code, LLaMA 3.x, IBM watsonx, Stable Diffusion, Ollama, HuggingFace, PyTorch, FAISS, ChromaDB, FastAPI, familiar with vLLM · LangChain / LangGraph · LlamaIndex]
       - name: Languages & Infra
-        keywords: [Python, SQL, Java, C++, Docker, GitHub Actions, Git, ML/GPU research cluster computing]
+        keywords: [Python, SQL, Java, C++, Docker, GitHub Actions, Git, ML/GPU research cluster computing, enterprise AI platform landscape (AWS Bedrock · Azure AI Foundry · Databricks · Snowflake)]
       - name: Governance & Risk
         keywords: [privacy & data sovereignty, IT governance, information risk, enterprise architecture]
 
