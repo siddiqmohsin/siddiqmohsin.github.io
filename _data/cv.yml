@@ -1,0 +1,124 @@
+cv:
+  name: Mohsin Siddiqui
+  label: Applied AI Researcher
+  email: siddiqmohsin@gmail.com
+  location: Auckland, New Zealand
+  image: ""
+  summary: Applied AI researcher working at the boundary between research and real-world deployment — RAG, machine unlearning, responsible deployment. 18+ years in regulated environments before returning to research.
+
+  social_networks:
+    - network: GitHub
+      username: msid876-commits
+    - network: LinkedIn
+      username: mohsinseniorexecutive
+
+  sections:
+    Research & Current Work:
+      - company: Independent Applied AI Research
+        position: Sole designer & builder — multi-perspective OSINT platform
+        location: Auckland, New Zealand
+        start_date: 2026
+        end_date: present
+        highlights:
+          - 38 author-specific RAG corpora (~66,000 chunks) convened as an analyst panel — hybrid retrieval, stance-aware knowledge graph, provenance-gated grounding, bounded autonomous monitoring, claim-level evidence register.
+
+      - company: University of Auckland
+        position: Graduate Teaching Assistant & Research Assistant, MAI programme
+        location: Auckland, New Zealand
+        start_date: 2025-11
+        end_date: present
+        highlights:
+          - AI Fundamentals course content; ethics-reviewed study of hackathon-based pedagogy; Student Representative, MAI Advisory & Operational Boards (Nov 2025 – May 2026).
+
+      - company: University of Auckland
+        position: Masters Thesis — "Retrieval Augmented Generation for New Zealand Social Law in a Data-Scarce Scenario" (A+, First Class Honours)
+        location: Auckland, New Zealand
+        start_date: 2025
+        end_date: 2026
+        highlights:
+          - ChuLo Lite v2 section-aware chunking + hybrid FAISS/BM25 retrieval; five-experiment ablation; precision 0 → 33%, recall 0 → 50% over naive dense baseline.
+
+      - company: Machine Unlearning Research (with Austin Fu)
+        position: RA-LCN — Retain-Aware Latent Concept Nulling (manuscript in preparation)
+        location: Auckland, New Zealand
+        start_date: 2025
+        end_date: present
+        highlights:
+          - Conceptual framework, foundational MU theory (boundary ambiguity, erasure creep), retain-aware Mahalanobis projection design; validated on GPT-2 and Stable Diffusion v1.5.
+
+    Experience:
+      - company: Oil & Gas Contractor
+        position: Digital Transformation Consultant
+        location: Al Khobar, Saudi Arabia
+        start_date: 2023-03
+        end_date: 2023-10
+
+      - company: WELLS Group
+        position: Sr. Business Development Manager
+        location: Auckland, New Zealand
+        start_date: 2013
+        end_date: 2021
+        summary: Digital transformation & innovation of IoT services across New Zealand infrastructure and utilities.
+        highlights:
+          - Set up the national EV Charging Solutions business — go-to-market strategy, ChargeNet national contract, government EV Smart Grid co-funding, $1M+ pipeline in under a year.
+          - Con-X field-intelligence SaaS — sales operations, key partnerships, learning & development, customer success.
+          - Secondment to COO — forensic process analysis, services KPI measurement, Power BI reporting.
+
+      - company: SMME
+        position: Business Development Manager / General Manager
+        location: Dubai, U.A.E.
+        start_date: 2006
+        end_date: 2013
+        summary: IT service management & governance training — ITIL, PRINCE2, COBIT, TOGAF, CGEIT, Solvay Executive Masters.
+        highlights:
+          - Grew the business from the ground up to three continents; P&L for Dubai office; €5M ARR; BP, Etihad Airways, Schlumberger, ADIA as key accounts.
+          - Coached and career-advised 6,000+ professionals through public certification programmes.
+
+      - company: KPMG
+        position: Sr. IT Advisor & National IT Security Officer
+        location: Riyadh, Saudi Arabia
+        start_date: 2005
+        end_date: 2006
+        highlights:
+          - Governance and information-risk advisory — STC ITIL analysis across seven IT Directorates; reports to STC VP Finance and the Governor of GOSI; Capital Markets Authority controls advisory.
+
+      - company: Special Applications Group, AliReza Group
+        position: Operations Engineer
+        location: Al Khobar, Saudi Arabia
+        start_date: 2003
+        end_date: 2005
+
+    Education:
+      - institution: University of Auckland
+        location: Auckland, New Zealand
+        area: Artificial Intelligence
+        studyType: Master of Artificial Intelligence (First Class Honours)
+        start_date: 2025
+        end_date: 2026
+
+      - institution: University of Auckland
+        location: Auckland, New Zealand
+        area: Zero Trust Architecture, decentralised networks & cryptography
+        studyType: Postgraduate Research
+        start_date: 2024
+        end_date: 2024
+
+      - institution: Lahore University of Management Sciences
+        location: Lahore, Pakistan
+        area: Computer Science
+        studyType: BSc (Hons)
+        start_date: 1999
+        end_date: 2003
+
+    Certifications:
+      - name: CISA · ITIL v3 Expert · COBIT · TOGAF · CGEIT · PRINCE2 · SCRUM Master
+        date: ""
+        issuer: ""
+
+    Languages:
+      - language: English, Arabic, Urdu, Hindi
+        fluency: Native / bilingual
+      - language: Spanish
+        fluency: Limited
+      - language: Russian
+        fluency: Elementary
