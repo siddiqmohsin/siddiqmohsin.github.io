@@ -137,7 +137,7 @@ cv:
       - name: Models & Tooling
         keywords: [Anthropic Claude API, Claude Code, LLaMA 3.x, IBM watsonx, Stable Diffusion, Ollama, vLLM, HuggingFace, PyTorch, LangChain / LangGraph, LlamaIndex, FastAPI, FAISS, ChromaDB]
       - name: Languages & Infra
-        keywords: [Python, SQL, Java, C++, AWS, Azure, Docker, GitHub Actions, Git]
+        keywords: [Python, SQL, Java, C++, Docker, GitHub Actions, Git]
       - name: Governance & Risk
         keywords: [privacy & data sovereignty, IT governance, information risk, enterprise architecture]
 
