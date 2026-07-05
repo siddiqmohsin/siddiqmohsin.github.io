@@ -27,7 +27,7 @@ latest_posts:
 
 I work at the boundary between applied AI research and real world deployment. I'm most interested in what happens when that boundary isn't respected, and how design choices around context, evaluation, and system constraints determine whether AI systems are actually trustworthy in practice.
 
-My recent work includes a First Class Honours Master's thesis on grounded, citation-aware retrieval-augmented generation (RAG) for New Zealand statutory law, demonstrating that segmentation and retrieval design, not model scale, determine legal AI trustworthiness. I also co-authored a research paper proposing Retain-Aware Latent Concept Nulling (RA-LCN), a retraining-free machine unlearning framework validated across text and generative image models. Across both, my focus is on evaluation, constraints, and controllability, not just capability.
+My recent work includes a First Class Honours Master's thesis on grounded, citation-aware retrieval-augmented generation (RAG) for New Zealand statutory law, demonstrating that segmentation and retrieval design, not model scale alone, determine legal AI trustworthiness. I also co-authored a research paper proposing Retain-Aware Latent Concept Nulling (RA-LCN), a retraining-free machine unlearning framework validated across text and generative image models. Across both, my focus is on evaluation, constraints, and controllability, not just capability.
 
 I'm drawn to research aligned deployment: work where real world use informs research questions, and where feedback from deployment improves system behaviour over time. This includes advising on evals, agent architectures, and deployment trade offs in domains where errors are costly and responsibility cannot be abstracted away.
 
