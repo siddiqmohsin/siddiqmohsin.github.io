@@ -133,7 +133,7 @@ cv:
 
     Skills:
       - name: LLM & Enterprise AI
-        keywords: [RAG, evaluation (RAGAS · DeepEval · LangSmith · MLflow), prompt engineering, multi-agent orchestration, fine-tuning (LoRA / PEFT), guardrails, knowledge graphs, context engineering]
+        keywords: [RAG, evaluation via custom metric harnesses (precision/recall@k · section coverage · ROUGE-L · BERTScore), prompt engineering, multi-agent orchestration, fine-tuning (LoRA / PEFT), guardrails, knowledge graphs, context engineering, familiar with RAGAS · DeepEval · LangSmith · MLflow]
       - name: Models & Tooling
         keywords: [Anthropic Claude API, Claude Code, LLaMA 3.x, IBM watsonx, Stable Diffusion, Ollama, HuggingFace, PyTorch, FAISS, ChromaDB, FastAPI, familiar with vLLM · LangChain / LangGraph · LlamaIndex]
       - name: Languages & Infra
