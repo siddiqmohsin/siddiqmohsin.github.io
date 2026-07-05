@@ -133,11 +133,11 @@ cv:
 
     Skills:
       - name: LLM & Enterprise AI
-        keywords: [RAG, evaluation via custom metric harnesses (precision/recall@k · section coverage · ROUGE-L · BERTScore), prompt engineering, multi-agent orchestration, fine-tuning (LoRA / PEFT), guardrails, knowledge graphs, context engineering, familiar with RAGAS · DeepEval · LangSmith · MLflow]
+        keywords: [RAG, evaluation via custom metric harnesses (retrieval precision/recall · ROUGE-L · BERTScore), prompt engineering, multi-agent orchestration, fine-tuning (LoRA / PEFT), guardrails, knowledge graphs, context engineering]
       - name: Models & Tooling
-        keywords: [Anthropic Claude API, Claude Code, LLaMA 3.x, IBM watsonx, Stable Diffusion, Ollama, HuggingFace, PyTorch, FAISS, ChromaDB, FastAPI, familiar with vLLM · LangChain / LangGraph · LlamaIndex]
+        keywords: [Anthropic Claude API, Claude Code, LLaMA 3.x, IBM watsonx, Ollama, PyTorch, HF Transformers & Diffusers, SentenceTransformers, FAISS, ChromaDB, FastAPI, familiar with vLLM · LangChain · RAGAS · MLflow]
       - name: Languages & Infra
-        keywords: [Python, SQL, Java, C++, Docker, GitHub Actions, Git, ML/GPU research cluster computing, enterprise AI platform landscape (AWS Bedrock · Azure AI Foundry · Databricks · Snowflake)]
+        keywords: [Python, SQL, Java, C++, Docker, GitHub Actions, Git, ML/GPU research cluster computing, AI platform landscape (Bedrock · Azure AI · Databricks · Snowflake)]
       - name: Governance & Risk
         keywords: [privacy & data sovereignty, IT governance, information risk, enterprise architecture]
 
